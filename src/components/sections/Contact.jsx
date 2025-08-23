@@ -30,8 +30,10 @@ const Contact = () => {
               📧 <a href="mailto:yourmail@example.com" className="hover:text-[#feb81c] transition">inbox30@gmail.com</a>
             </p>
             <p>
-              📍 Location: Vadakara, Kozhikode, India
+              📍 Location: Vadakara, Kozhikode, India <br />
+              <span className="ml-6 text-sm text-gray-500">(Sometimes: Mumbai, Maharashtra)</span>
             </p>
+
           </div>
 
           {/* Social Links */}
@@ -41,6 +43,9 @@ const Contact = () => {
             </a>
             <a href="https://stackoverflow.com/users/212595/harish-kurup" target="_blank" className="text-gray-600 hover:text-[#feb81c] text-2xl transition">
               <i className="devicon-stackoverflow-plain"></i>
+            </a>
+            <a href="https://www.instagram.com/harishkurup/?hl=en" target="_blank" className="text-gray-600 hover:text-[#feb81c] text-2xl transition">
+              <i class="fa-brands fa-instagram"></i>
             </a>
           </div>
         </div>
