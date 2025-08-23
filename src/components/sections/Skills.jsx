@@ -4,7 +4,7 @@ import SkillList from '../../constants/skills';
 const Skills = () => {
 
   return <motion.section id="skills" 
-      className="w-full min-h-screen px-[5%] py-16 bg-white"
+      className="w-full min-h-screen px-[5%] py-16 bg-white pt-24 md:pt-32"
       initial={{ opacity: 0 }}
       whileInView={{ opacity: 1 }}
       viewport={{ once: true }}
