@@ -43,6 +43,14 @@ export default [{
     icon: 'devicon-svelte-plain colored text-6xl'
   },
   {
+    label: 'Zustand',
+    icon: 'devicon-zustand-plain colored text-6xl'
+  },
+  {
+    label: 'Graphql',
+    icon: 'devicon-graphql-plain colored text-6xl'
+  },
+  {
     label: 'Git',
     icon: 'devicon-git-plain colored text-6xl'
   },
@@ -89,6 +97,30 @@ export default [{
   {
     label: 'Prometheus',
     icon: 'devicon-prometheus-original colored text-6xl'
+  },
+  {
+    label: 'Typescript',
+    icon: 'devicon-typescript-plain colored text-6xl'
+  },
+  {
+    label: 'Deno',
+    icon: 'devicon-denojs-original colored text-6xl'
+  },
+  {
+    label: 'Github',
+    icon: 'devicon-github-plain colored text-6xl'
+  },
+  {
+    label: 'Jest',
+    icon: 'devicon-jest-plain colored text-6xl'
+  },
+  {
+    label: 'Prisma',
+    icon: 'devicon-prisma-plain colored text-6xl'
+  },
+  {
+    label: 'Redis',
+    icon: 'devicon-redis-plain colored text-6xl'
   },
   {
     label: 'Bash',
