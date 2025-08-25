@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 // import GundamHero from "../../assets/Gundam-RX.jpeg"
-import MeHero from "../../assets/me.png"
+import MeHero from "../../assets/me-lite.png"
 import Typewriter from "typewriter-effect"
 
 const Hero = () => {
@@ -30,7 +30,7 @@ const Hero = () => {
           </span>
         </h1>
         <h2 className="text-xl md:text-2xl text-gray-600">
-          Full Stack Developer | React | Node.js
+          Full Stack Developer | React | Node.js | Nextjs 
         </h2>
         <p className="text-gray-500 leading-relaxed max-w-md mx-auto md:mx-0">
           I build modern web applications with a focus on clean UI, 
